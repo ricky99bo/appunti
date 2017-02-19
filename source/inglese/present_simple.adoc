@@ -1,0 +1,40 @@
+== *Present Simple*
+
+=== Utilizzo
+
+Il Simple Present è il tempo verbale inglese che esprime il concetto generale di *un’azione che*, pur svolgendosi nel presente, *non è limitata al momento in cui si sta parlando*.
+Lo si deve usare per esprimere un’azione presente quando si verifica almeno una delle seguenti circostanze:
+
+* L’azione esprime un *fatto permanente*, cioè qualcosa che è generalmente sempre vera.
+* Il verbo esprime *un’azione ricorrente*, che viene cioè ripetuta con una certa frequenza, espressa nella frase o nel contesto da un’espressione di tempo.
+* Nella frase al presente c’è un *avverbio di frequenza*. Gli avverbi di frequenza sono quegli avverbi di tempo che rispondono alla domanda "quanto spesso?"
+* Si usa il Simple Present per esprimere il *presente di alcuni verbi inglesi* che non vengono utilizzati al Present Continuous, anche se si tratta di azioni limitate al momento in cui si parla.
+
+=== Costituzione
+
+[cols="3*", options="header"] 
+|===
+|FORMA
+|COSTRUZIONE
+|ESEMPIO
+
+|Forma affermativa
+|*SOGGETTO + FORMA BASE*
+|I work, he/she/it works
+
+|Forma negativa
+|*SOGGETTO + DO / DOES + NOT + FORMA BASE*
+|I do not work (I don’t work)
+
+|forma interrogativa
+|*DO/DOES+SOGGETTO+FORMA BASE*
+|Where does he work?
+|===
+
+=== Esempi
+
+* ON SATURDAYS I go to the cinema with my friends.
+* Do you go to the cinema ON SATURDAYS?
+* I want an ice-cream
+* Where does he work?
+* He doesn’t work

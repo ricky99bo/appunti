@@ -1,0 +1,39 @@
+== *Present Continuous*
+
+=== Utilizzo
+
+Il Present Continuous si usa per esprimere *un’azione presente* quando si verifica una delle seguenti circostanze:
+
+* Il verbo esprime *un’azione che si sta svolgendo* nel momento in cui si parla.
+* Il verbo esprime *un’azione che si svolge nel limitato periodo di tempo* di cui si parla, anche se non necessariamente nel momento in cui si parla.
+* Il verbo esprime un *programma preciso per il futuro*
+
+=== Costituzione
+
+Il Present Continuous, come tutti i tempi progressivi, è un tempo composto. Utilizza l’ausiliare to be al Simple Present e la forma in -ing del verbo della frase.
+Se il verbo deve essere messo in forma negativa o interrogativa, si fa la forma negativa o interrogativa del verbo to be, mentre il verbo nella -ing form rimane invariato al suo posto 
+
+[cols="3*", options="header"] 
+|===
+|FORMA
+|COSTRUZIONE
+|ESEMPIO
+
+|Forma affermativa
+|*Soggetto + to be al Simple Present + verbo -ing*
+|I am writing a letter
+
+|Forma negativa
+|*Soggetto + to be al Simple Present + NOT + verbo -ing*
+|I am not writing a letter
+
+|forma interrogativa
+|*To be al Simple Present + soggetto + verbo -ing*
+|Are you writing a letter ? 
+|===
+
+=== Esempi
+
+* He, she, it is going
+* You aren't going
+* Is he, she, it going?

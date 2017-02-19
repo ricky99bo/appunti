@@ -1,7 +1,15 @@
 :stem:
 :toc: left
 :toc-title: Menu
-:toclevels: 3
+:toclevels: 1
 :sourcedir: source\inglese
 
-= INGLESE
+= *INGLESE*
+
+include::{sourcedir}\present_simple.adoc[]
+
+include::{sourcedir}\present_continuos.adoc[]
+
+include::{sourcedir}\past_simple.adoc[]
+
+include::{sourcedir}\past_continuos.adoc[]

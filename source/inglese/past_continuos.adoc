@@ -1,0 +1,41 @@
+== *Past Continuous*
+
+=== Utilizzo
+
+* Il Past Continuous è il tempo verbale che si utilizza per esprimere *un'azione che era in corso di svolgimento* in un momento definito del passato.
+* Frequentemente il Past Continuous è *associato al Simple Past quando si descrive un'azione che si è prolungata per un certo periodo di tempo nel passato e 
+che è stata interrotta da un'azione breve*. L'azione lunga è espressa al Past Continuous, quella breve che la interrompe al Simple Past.
+* L'azione è *collocata nel passato*: yesterday.
+
+*_Nota_* : Naturalmente non si può usare il Past Continuous con i verbi che non vengono utilizzati nei tempi progressivi (vedi: uso della -ing form -> tempi progressivi).
+
+=== Costituzione
+
+Il Present Continuous, come tutti i tempi progressivi, è un tempo composto. Utilizza l’ausiliare to be al Simple Present e la forma in -ing del verbo della frase.
+Se il verbo deve essere messo in forma negativa o interrogativa, si fa la forma negativa o interrogativa del verbo to be, mentre il verbo nella -ing form rimane invariato al suo posto 
+
+[cols="3*", options="header"] 
+|===
+|FORMA
+|COSTRUZIONE
+|ESEMPIO
+
+|Forma affermativa
+|*SOGGETTO + WAS/WERE + -ING FORM*
+|you were reading, he/she/it was reading
+
+|Forma negativa
+|*SOGG. + WAS/WERE + NOT + -ING FORM*
+|you were not reading
+
+|forma interrogativa
+|*WAS/WERE + SOGG. + -ING FORM*
+|Were you reading…? Was he reading…?
+|===
+
+=== Esempi
+
+* At 11.30 last night _I was watching_ a film on TV.
+* This time yesterday _I was flying_ to London
+* _I was watching_ TV last night, when the telephone rang.
+* I saw her in the library yesterday, _she was reading a book_.

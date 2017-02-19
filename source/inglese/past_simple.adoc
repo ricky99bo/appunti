@@ -1,0 +1,51 @@
+== *Past Simple*
+
+=== Utilizzo
+
+
+Il Simple Past è il tempo verbale inglese che esprime il concetto generale di un’azione che si è 
+svolta nel passato e non ha più nessun rapporto con il presente.
+
+Per poter mettere un verbo al Simple Past devono verificarsi 
+contemporaneamente tre condizioni.
+
+* L’azione deve essersi *svolta nel passato* ed *essere finita* nel momento in cui si parla.
+* Il *tempo in cui l’azione si è svolta* deve essere *espresso nella frase* o nel contesto.
+* Il *tempo espresso deve essere passato e finito mentre si parla*.
+
+=== Costituzione
+
+Il Simple  Past, nella forma affermativa, è un tempo semplice, che è dato dalla seconda voce del paradigma ed è uguale per tutte le persone. 
+
+Per i verbi regolari il Simple Past si ottiene aggiungendo -ED alla forma base del verbo, tenendo presente quanto segue.
+
+* I verbi regolari aggiungono ed alla forma base
+* I verbi che terminano per -e aggiungono solo la d	smile
+* I verbi che terminano per -y preceduta da consonante, cambiano la y in i e aggiungono ed.
+* I verbi che terminano per una sola consonante preceduta da una vocale accentata raddoppiano la consonante finale
+* I verbi che terminano per -l preceduta da una sola vocale raddoppiano sempre la l.
+
+[cols="3*", options="header"] 
+|===
+|FORMA
+|COSTRUZIONE
+|ESEMPIO
+
+|Forma affermativa
+|*SOGGETTO + 2° VOCE DEL PARADIGMA*
+|you worked, he / she / it worked
+
+|Forma negativa
+|*SOGG. + DID + NOT + FORMA BASE (DID NOT -> DIDN’T)*
+|I didn’t work last night
+
+|forma interrogativa
+|*DID + SOGGETTO + FORMA BASE*
+|Did you work last night?
+|===
+
+=== Esempi
+
+* I didn’t work last night
+* Did you work last night?
+* You worked at my house
