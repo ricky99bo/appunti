@@ -1,0 +1,7 @@
+:stem:
+:toc: left
+:toc-title: Menu
+:toclevels: 3
+:sourcedir: source\inglese
+
+= INGLESE

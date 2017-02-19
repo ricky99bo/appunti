@@ -1,1 +1,7 @@
-== DERIVATE
+:imagesdir: image
+
+== Derivate
+
+link:https://www.youtube.com/playlist?list=PLpkXLf6Zhdx3cfwlkGty-daBIHvPj4OuW[Playlist derivate LessThan3Math - YT]
+
+image::image\derivate1.jpg[]

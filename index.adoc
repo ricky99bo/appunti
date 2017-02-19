@@ -1,3 +1,9 @@
 = APPUNTI
 
-link:matematica.html[matematica]
+link:matematica.html[Matematica]
+
+link:inglese.html[Inglese]
+
+link:italiano.html[Italiano]
+
+link:storia.html[Storia]
